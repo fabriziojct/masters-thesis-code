@@ -1,0 +1,3 @@
+Code for the thesis. The first section covers the preprocessing.
+The second section covers EDA and Data Analysis
+...
